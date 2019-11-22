@@ -1,0 +1,4 @@
+#Tue Nov 19 23:51:19 CST 2019
+base.0=C\:\\Kevin\\UTD\\Fall 19\\DCP\\i3Mation\\image_classifier_template-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
